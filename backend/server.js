@@ -7,8 +7,8 @@ app.use(cors());
 app.use(express.json()); // Parse JSON bodies
 
 const allowedArea = {
-  latitude: 22.3071588, // Center latitude
-  longitude: 73.1812187, // Center longitude
+  latitude: 27.4924134, // Center latitude
+  longitude: 77.673673, // Center longitude
   radius: 500, // Radius in meters
 };
 
